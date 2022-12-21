@@ -13,14 +13,12 @@
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 
-# Sample visual essay
+# Introduction and Background
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+This is where we will introduce the essay and give a brief history on certain objects?
 <param ve-image 
        manifest="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Statue_of_a_kouros_%28c._530_BCE_or_modern%2C_Getty_Villa_Collection%29.jpg/640px-Statue_of_a_kouros_%28c._530_BCE_or_modern%2C_Getty_Villa_Collection%29.jpg" width="600" height="700">
        
-
-# Basic usage
 
 ## Image
 
@@ -32,10 +30,8 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Statue_of_a_kouros_%28c._530_BCE_or_modern%2C_Getty_Villa_Collection%29.jpg/640px-Statue_of_a_kouros_%28c._530_BCE_or_modern%2C_Getty_Villa_Collection%29.jpg">
 
 
-## Multiple viewers
+## Comment Section for Readers
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
@@ -43,3 +39,7 @@ Others are selectable using icons displayed in the top right margin of the parag
 # References
 
 [^1]: [WikiMedia: Statue of a kouros](https://commons.wikimedia.org/wiki/File:Statue_of_a_kouros_(c._530_BCE_or_modern,_Getty_Villa_Collection).jpg#metadata)
+
+# Social Media
+<button share-network="linkedin" class="btn blog-share linkedin">
+  <i class="icon-linkedin"></i></button>
