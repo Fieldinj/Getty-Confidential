@@ -3,7 +3,7 @@
 <param ve-config 
        title="Getty Confindential"
        author="Isabelle Woodward and Jacquelyn Fielding"
-       banner="https://pbs.twimg.com/media/FkcID2GXwAAfRgM?format=jpg&name=medium" 
+       banner="https://pbs.twimg.com/media/FkgD4D1aUAMGYU3?format=jpg&name=medium" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
