@@ -12,13 +12,13 @@
 <param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
 
 # Sample visual essay
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
        manifest="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Statue_of_a_kouros_%28c._530_BCE_or_modern%2C_Getty_Villa_Collection%29.jpg/640px-Statue_of_a_kouros_%28c._530_BCE_or_modern%2C_Getty_Villa_Collection%29.jpg">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Statue_of_a_kouros_%28c._530_BCE_or_modern%2C_Getty_Villa_Collection%29.jpg/640px-Statue_of_a_kouros_%28c._530_BCE_or_modern%2C_Getty_Villa_Collection%29.jpg" width="500" height="400"
 
 # Basic usage
 
@@ -31,11 +31,6 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Statue_of_a_kouros_%28c._530_BCE_or_modern%2C_Getty_Villa_Collection%29.jpg/640px-Statue_of_a_kouros_%28c._530_BCE_or_modern%2C_Getty_Villa_Collection%29.jpg">
 
-## Map
-
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 ## Multiple viewers
 
