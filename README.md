@@ -1,8 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
+       title="Getty Confindential"
+       author="Isabelle Woodward and Jacquelyn Fielding"
        banner="https://pbs.twimg.com/media/FkcID2GXwAAfRgM?format=jpg&name=medium" 
        layout="vertical">
 
@@ -24,14 +24,12 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+ A statue of a kouros, that is, an Archaic Greek representation of a nude young man. Known as the "Getty kouros", its authenticity has not been completely resolved because it evidences a mixture of earlier and later stylistic traits and uses marble from Thasos island at an unexpected date. The website of the Getty Villa states: "The anomalies of the Getty kouros may be due more to our limited knowledge of Greek sculpture in this period rather than to mistakes on the part of a forger."[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Statue of Kouros " 
+       description="Photo of Getty Museum's Statue of Kouros" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Statue_of_a_kouros_%28c._530_BCE_or_modern%2C_Getty_Villa_Collection%29.jpg/640px-Statue_of_a_kouros_%28c._530_BCE_or_modern%2C_Getty_Villa_Collection%29.jpg">
 
 ## Map
 
@@ -49,4 +47,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [WikiMedia: Statue of a kouros](https://commons.wikimedia.org/wiki/File:Statue_of_a_kouros_(c._530_BCE_or_modern,_Getty_Villa_Collection).jpg#metadata)
