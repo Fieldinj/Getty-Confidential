@@ -15,12 +15,15 @@
 
 # Introduction and Background
  
- The statue kouros was bought by the J. Paul Getty Museum in 1986 for 9 million dollars. The Getty Museum defines this statue as a represention of youth itself. The state is specfically a nude youth and was used as a dedication to the gods. 
+ The statue kouros was bought by the J. Paul Getty Museum in 1986 for 9 million dollars. The Getty Museum defines this statue as a represention of youth itself. As pictured, the statue depicts a nude youth and was used a dedication to the gods. These statues would be found in sanctuaries and as a grave monuments throughout Archaic Greece. 
 <param ve-image 
-       manifest="https://pbs.twimg.com/media/Fk_2N2dWIAEAzwU?format=jpg&name=900x900">
+       label="Statue of Kouros " 
+       description="Photo of Getty Museum's Statue of Kouros" 
+       license="public domain" 
+       url="https://pbs.twimg.com/media/Fk_2N2dWIAEAzwU?format=jpg&name=900x900">
        
 
-## Image
+## Our Thoughts?
 
 We now see this kouros as a piece of art in its own right. If it is a forgery, it is an immensely skilled done by an artist who used a pastiche of stylistic details that deserve study. The locks of hair suggest early sixth century B.C. but the sensitively modelled feet and abdomen suggest a later date. The muscle detail in the thighs suggest kouroi from Corinth but the narrow shoulders do not look archaic. We even held a colloquium in Athens with the help of our friends as the [Museum of Cycladic Art](https://cycladic.gr/en) with the world’s leading experts to discuss their views on the statue and shared the findings with you 
 
