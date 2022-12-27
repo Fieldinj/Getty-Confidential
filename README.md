@@ -17,7 +17,7 @@
  
  The statue kouros was bought by the J. Paul Getty Museum in 1986 for 9 million dollars. The Getty Museum defines this statue as a represention of youth itself. The state is specfically a nude youth and was used as a dedication to the gods. 
 <param ve-image 
-       manifest="https://pbs.twimg.com/media/Fk_2N2dWIAEAzwU?format=jpg&name=900x900" width="600" height="700">
+       manifest="https://pbs.twimg.com/media/Fk_2N2dWIAEAzwU?format=jpg&name=900x900">
        
 
 ## Image
@@ -31,7 +31,7 @@ But we made a mistake in removing the now infamous Getty Kouros from our galleri
        label="Statue of Kouros " 
        description="Photo of Getty Museum's Statue of Kouros" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Statue_of_a_kouros_%28c._530_BCE_or_modern%2C_Getty_Villa_Collection%29.jpg/640px-Statue_of_a_kouros_%28c._530_BCE_or_modern%2C_Getty_Villa_Collection%29.jpg">
+       url="https://pbs.twimg.com/media/Fk_2N2dWIAEAzwU?format=jpg&name=900x900">
 
 
 ## Comment Section for Readers
