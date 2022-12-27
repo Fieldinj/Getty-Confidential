@@ -14,15 +14,19 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 
 # Introduction and Background
-
-This is where we will introduce the essay and give a brief history on certain objects?
+ 
+ The statue kouros was bought by the J. Paul Getty Museum in 1986 for 9 million dollars. The Getty Museum defines this statue as a represention of youth itself. The state is specfically a nude youth and was used as a dedication to the gods. 
 <param ve-image 
-       manifest="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Statue_of_a_kouros_%28c._530_BCE_or_modern%2C_Getty_Villa_Collection%29.jpg/640px-Statue_of_a_kouros_%28c._530_BCE_or_modern%2C_Getty_Villa_Collection%29.jpg" width="600" height="700">
+       manifest="https://pbs.twimg.com/media/Fk_2N2dWIAEAzwU?format=jpg&name=900x900" width="600" height="700">
        
 
 ## Image
 
- A statue of a kouros, that is, an Archaic Greek representation of a nude young man. Known as the "Getty kouros", its authenticity has not been completely resolved because it evidences a mixture of earlier and later stylistic traits and uses marble from Thasos island at an unexpected date. The website of the Getty Villa states: "The anomalies of the Getty kouros may be due more to our limited knowledge of Greek sculpture in this period rather than to mistakes on the part of a forger."[^1]
+We now see this kouros as a piece of art in its own right. If it is a forgery, it is an immensely skilled done by an artist who used a pastiche of stylistic details that deserve study. The locks of hair suggest early sixth century B.C. but the sensitively modelled feet and abdomen suggest a later date. The muscle detail in the thighs suggest kouroi from Corinth but the narrow shoulders do not look archaic. We even held a colloquium in Athens with the help of our friends as the [Museum of Cycladic Art](https://cycladic.gr/en) with the world’s leading experts to discuss their views on the statue and shared the findings with you 
+
+So when a similar, unquestionably [fake torso](https://www.getty.edu/art/collection/object/103WHK) turned up we bought it so that our research laboratories could do more tests involving independent scholars and scientists. And yet we are still no further in uncovering the truth. It seems that scientific opinion is not mightier than aesthetic judgement.
+
+But we made a mistake in removing the now infamous Getty Kouros from our galleries recently. And we will return it alongside the Fragmentary Kouros so that we can fully share the enigma with you and our visitors. We plan to have some fun with it and ask you to help us develop this permanent exhibition. So what can we do together to create a witty celebration of risk, and passion for artistry. Let’s use [Martin Kersel’s](https://ocula.com/artists/martin-kersels/) series of photographs of himself clutching a life-size replica of the Kouros that he did back 2000 as a starting point and start a true collaboration.
 <param ve-image 
        label="Statue of Kouros " 
        description="Photo of Getty Museum's Statue of Kouros" 
@@ -35,9 +39,6 @@ This is where we will introduce the essay and give a brief history on certain ob
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
-
-# References
-[^1]: [WikiMedia: Statue of a kouros](https://commons.wikimedia.org/wiki/File:Statue_of_a_kouros_(c._530_BCE_or_modern,_Getty_Villa_Collection).jpg#metadata)
 
 
   
