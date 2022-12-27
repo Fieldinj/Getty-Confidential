@@ -25,10 +25,8 @@
 
 ## Our Thoughts?
 
-We now see this kouros as a piece of art in its own right. If it is a forgery, it is an immensely skilled done by an artist who used a pastiche of stylistic details that deserve study. The locks of hair suggest early sixth century B.C. but the sensitively modelled feet and abdomen suggest a later date. The muscle detail in the thighs suggest kouroi from Corinth but the narrow shoulders do not look archaic. We even held a colloquium in Athens with the help of our friends as the [Museum of Cycladic Art](https://cycladic.gr/en) with the world’s leading experts to discuss their views on the statue and shared the findings with you 
-
+We now see this kouros as a piece of art in its own right. If it is a forgery, it is an immensely skilled done by an artist who used a pastiche of stylistic details that deserve study. The locks of hair suggest early sixth century B.C. but the sensitively modelled feet and abdomen suggest a later date. The muscle detail in the thighs suggest kouroi from Corinth but the narrow shoulders do not look archaic. We even held a colloquium in Athens with the help of our friends as the [Museum of Cycladic Art](https://cycladic.gr/en) with the world’s leading experts to discuss their views on the statue and shared the findings with you.
 So when a similar, unquestionably [fake torso](https://www.getty.edu/art/collection/object/103WHK) turned up we bought it so that our research laboratories could do more tests involving independent scholars and scientists. And yet we are still no further in uncovering the truth. It seems that scientific opinion is not mightier than aesthetic judgement.
-
 But we made a mistake in removing the now infamous Getty Kouros from our galleries recently. And we will return it alongside the Fragmentary Kouros so that we can fully share the enigma with you and our visitors. We plan to have some fun with it and ask you to help us develop this permanent exhibition. So what can we do together to create a witty celebration of risk, and passion for artistry. Let’s use [Martin Kersel’s](https://ocula.com/artists/martin-kersels/) series of photographs of himself clutching a life-size replica of the Kouros that he did back 2000 as a starting point and start a true collaboration.
 <param ve-image 
        label="Statue of Kouros " 
