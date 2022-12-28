@@ -15,7 +15,7 @@
 
 # Introduction and Background
  
- The statue kouros was bought by the J. Paul Getty Museum in 1986 for 9 million dollars. The Getty Museum defines this statue as a represention of youth itself. As pictured, the statue depicts a nude youth and was used a dedication to the gods. These statues would be found in sanctuaries and as a grave monuments throughout Archaic Greece. 
+ 
 <param ve-image 
        label="Statue of Kouros " 
        description="Photo of Getty Museum's Statue of Kouros" 
