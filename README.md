@@ -14,8 +14,10 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 
 # Introduction and Background
- 
- 
+
+The statue Kouros was bought by the J. Paul Getty Museum in 1986 for 9 million dollars. The Getty Museum defines this statue as a representation of youth itself. As pictured, the statue depicts a nude youth and was used as a dedication to the gods. These statues would be found in sanctuaries and as grave monuments throughout Archaic Greece. 
+This statue has caused some controversy for the Getty museum as it has been in many debates regarding its authenticity. Many different arguments have been stated on why exactly this statue is forged. Some speculate that the statue is forged because of a chemical process that is shown on the exterior.  This has caused the statue to slowly erode over time. Scientists argued that this chemical process was caused by potato mold that was only a few months old rather than years. Another argument has stated that the material used for the sculpture was too “new” and the marble was in great condition for it to be thousands of years old. The features on the sculpture have also been questioned as they seem to mix between time periods. The Getty museum also states that because of where the marble is from, this has caused people to question its age. 
+While these arguments sound very compelling, the Getty museum has stated in their short online entry that there is no exact conclusion to this issue. They do not specifically state that the statue is forged, but they do acknowledge that they have limited knowledge on the subject of Greek sculpture. 
 <param ve-image 
        label="Statue of Kouros " 
        description="Photo of Getty Museum's Statue of Kouros" 
