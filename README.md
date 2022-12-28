@@ -22,7 +22,7 @@ While these arguments sound very compelling, the Getty museum has stated in thei
        label="Statue of Kouros " 
        description="Photo of Getty Museum's Statue of Kouros" 
        license="public domain" 
-       url="https://pbs.twimg.com/media/Fk_2N2dWIAEAzwU?format=jpg&name=700x700">
+       url="https://pbs.twimg.com/media/Fk_2N2dWIAEAzwU?format=jpg&name=900x900">
        
 
 ## Our Thoughts?
@@ -34,7 +34,7 @@ But we made a mistake in removing the now infamous Getty Kouros from our galleri
        label="Statue of Kouros " 
        description="Photo of Getty Museum's Statue of Kouros" 
        license="public domain" 
-       url="https://pbs.twimg.com/media/Fk_2N2dWIAEAzwU?format=jpg&name=700x700">
+       url="https://pbs.twimg.com/media/Fk_2N2dWIAEAzwU?format=jpg&name=900x900">
 
 
 ## Comment Section for Readers
