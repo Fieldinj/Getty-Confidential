@@ -40,7 +40,7 @@ The Fragmentary Imitation Kouros was found in 1990 by [Jeffrey Spier](https://ge
        label="Head of Fragmentary Kouros " 
        description="Photo of Getty Museum's Fragmentry Kouros" 
        license="public domain" 
-       url="https://th.bing.com/th/id/OIP.aixyPg7v3ky00y6yroeIFQHaJh?w=182&h=234&c=7&r=0&o=5&dpr=1.3&pid=1.7">
+       url="https://s3.amazonaws.com/omeka-net/17186/archive/files/db1b736e5c783346685ed32b57022cc9.jpg?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&Expires=1673481600&Signature=yJZEM4MNsgp0Fd5EMmB70Svs14k%3D">
  
 
 
