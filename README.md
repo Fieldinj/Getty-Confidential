@@ -21,7 +21,14 @@ The Getty Kouros was bought by the [J. Paul Getty Museum](https://www.getty.edu/
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/05/Kouros.jpg">
 
-The sculpture dated 530 B.C. or modern forgery with no known artist on the Getty Museum online entry. It also mentions how the kouros embodies many different ideals from the aristocratic culture of Archaic Greece.<q>One such ideal of this period was *arete*, a combination of moral and physical beauty and nobility. Arete was closely connected with *kalokagathia*, literally a composite term for beautiful and good or noble.</q>During the time period in which the kouros was said to be made, society emphasized youth and male beauty, this kouros is the artistic representation of that. 
+The sculpture dated 530 B.C. or [modern forgery](https://www.thoughtco.com/the-crime-of-forgery-970864) with no known artist on the Getty Museum online entry. It also mentions how the kouros embodies many different ideals from the aristocratic culture of Archaic Greece.<q>One such ideal of this period was *arete*, a combination of moral and physical beauty and nobility. Arete was closely connected with *kalokagathia*, literally a composite term for beautiful and good or noble.</q>During the time period in which the kouros was said to be made, society emphasized youth and male beauty, this kouros is the artistic representation of that. 
+<param ve-entity eid="Q265823" title="arete">
+<param ve-entity eid="Q1414901" title="kalokagathia">
+<param ve-image fit="Cover"
+       label="Side view of Getty Kouros"
+       description="This photo shows the side view of the Getty Kouros on display at the Getty Museum"
+       license="public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Getty_kouros.jpg/640px-Getty_kouros.jpg"
 
 
 This statue has caused some controversy for the Getty museum as it has been in many debates regarding its authenticity. Many different arguments have been stated on why exactly this statue is forged. Some speculate that the statue is forged because of a chemical process that is shown on the exterior. This has caused the statue to slowly erode over time. Scientists argued that this chemical process was caused by potato mold that was only a few months old rather than years. Further investigation has shown that the curator that presented the kouros had forged the documents for the statue. Another argument has stated that the material used for the sculpture was too “new” and the marble was in great condition for it to be thousands of years old. The features on the sculpture have also been questioned as they seem to mix between time periods. The Getty museum also states that because of where the marble is from, this has caused people to question its age. 
