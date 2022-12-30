@@ -2,16 +2,9 @@
 
 <param ve-config 
        title="Getty Confindential"
-       author="Isabelle Woodward and Jacquelyn Fielding"
+       author="Jacquelyn Fielding"
        banner="https://pbs.twimg.com/media/FkgFXTBUcAAmz8M?format=png&name=large" 
        layout="vertical">
-
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 
 # Forged or Authentic? 
 
@@ -19,8 +12,9 @@
 
 # The Getty Kouros
 
-The Getty Kouros was bought by the [J. Paul Getty Museum](https://www.getty.edu/museum/) in 1986 for 9 million dollars. The Getty Museum defines this statue as a representation of youth itself. As pictured, the statue depicts a nude youth and was used as a dedication to the gods. These statues would be found in sanctuaries and as grave monuments throughout [Archaic Greece](https://www.worldhistory.org/Archaic_Period/). 
+The Getty Kouros was bought by the [J. Paul Getty Museum](https://www.getty.edu/museum/) in 1985 for 9 million dollars. The Getty Museum defines this statue as a representation of youth itself. As pictured, the statue depicts a nude youth and was used as a dedication to the gods. These statues would be found in sanctuaries and as grave monuments throughout Archaic Greece. 
 <param ve-entity eid="Q5554723" title="The Getty Kouros">
+<param ve-entity eid="Q271834" title="Archaic Greece">
 <param ve-image fit="Cover"
        label="Statue of Kouros" 
        description="Photo of Getty Museum's Statue of Kouros" 
