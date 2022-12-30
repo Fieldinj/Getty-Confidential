@@ -21,7 +21,7 @@ The Getty Kouros was bought by the [J. Paul Getty Museum](https://www.getty.edu/
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/05/Kouros.jpg">
 
-The sculpture dated 530 B.C. or [modern forgery](https://www.thoughtco.com/the-crime-of-forgery-970864) with no known artist on the Getty Museum online entry. It also mentions how the kouros embodies many different ideals from the aristocratic culture of Archaic Greece.<q>One such ideal of this period was *arete*, a combination of moral and physical beauty and nobility. Arete was closely connected with *kalokagathia*, literally a composite term for beautiful and good or noble.</q>During the time period in which the kouros was said to be made, society emphasized youth and male beauty, this kouros is the artistic representation of that. 
+The sculpture dated 530 B.C. or [modern forgery](https://www.thoughtco.com/the-crime-of-forgery-970864) with no known artist on the Getty Museum online entry. It also mentions how the kouros embodies many different ideals from the aristocratic culture of Archaic Greece. <q>One such ideal of this period was *arete*, a combination of moral and physical beauty and nobility. Arete was closely connected with *kalokagathia*, literally a composite term for beautiful and good or noble.</q> During the time period in which the kouros was said to be made, society emphasized youth and male beauty, this kouros is the artistic representation of that. 
 <param ve-entity eid="Q265823" title="arete">
 <param ve-entity eid="Q1414901" title="kalokagathia">
 <param ve-image fit="Cover"
