@@ -6,13 +6,13 @@
        banner="https://jacquelyn328393716.files.wordpress.com/2022/12/shutterstock_1990282745-1.jpg?w=1034" 
        layout="vertical">
 
-# Forged or Authentic?
+## Forged or Authentic?
 
 The Getty Museum has nearly 1,700 objects in their collection. Spread throughout two museums, some objects are looked over and deserve to be put into the spotlight. These objects in particular have sparked controversy about their authenticity and past. This page encourages viewers to have a look past their appearances and into their history, whether it's good or bad. 
 <param ve-compare curtain url="https://live.staticflickr.com/580/20985280249_8b0f682268_b.jpg" label="Getty Center" description="Photo of the outside of the Getty Center" license="Public Domain">
 <param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Getty_villa%2C_peristilio_esterno_13.JPG/1280px-Getty_villa%2C_peristilio_esterno_13.JPG" label="Getty Villa" description="Photo of the outside of the Getty Villa" license="Public Domain">
 
-# The Getty Kouros
+## The Getty Kouros
 
 [The kouros statue](https://www.getty.edu/art/collection/object/103vnp) owned by the [J. Paul Getty Museum](https://www.getty.edu/museum/) was purchased in 1986 for $9 million. As pictured, the statue depicts a nude youth and was used as a dedication to the gods. Kouros statues similar to this piece would be found in sanctuaries and as grave monuments throughout Archaic Greece. 
 <param ve-entity eid="Q271834" title="Archaic Greece">
@@ -40,7 +40,7 @@ Recently, the authenticity of this particular statue has come into question, cau
        license="public domain" 
        url="https://pbs.twimg.com/media/FlkgVKUXkAE2Mwc?format=jpg&name=4096x4096">
 
-# The Fragmentary Imitation Kouros
+## The Fragmentary Imitation Kouros
 
 In 1990, art historian [Jeffrey Spier](https://getty.academia.edu/JeffreySpier/CurriculumVitae) discovered pieces of a kouros statue that have since become collectively known as the [Fragmentary Imitation Kouros](https://www.getty.edu/art/collection/object/103WHK). This kouros was quickly identified as a forgery, but Spier believed it provided critical insight for the aforementioned Getty Kouros. He argued that the similarities in characteristics and art style between the two pieces proved the illegitimacy of each kouros, finally ending the debate on authenticity. Taking this into account, scholars immediately began research on the possibility of the statues sharing a creator, but were quick to discard the idea. The Fragmentary Imitation Kouros was deduced to have been manufactured by modern tools, while the style in which the Getty Kouros was erected remained consistent with the targeted time frame it should have been assembled in. Since the controversy, the Getty museum has obtained the Fragmentary Kouros as well in order to use it as a subject for studying modern forgeries of artifacts.
 <param ve-image fit="Cover"
@@ -56,7 +56,7 @@ In 1992, the Getty Museum hosted an event in Greece in an attempt to publicly op
        license="public domain" 
        url="https://jacquelyn328393716.files.wordpress.com/2022/12/d2147516-efb0-4b8c-a4f9-ffa3dfe24974-1.jpg?strip=info&w=473">
  
-# Head with Horns
+## Head with Horns
 
 The [*Head with Horns*](https://www.getty.edu/art/collection/object/108J7Y?tab=exhibitions#full-artwork-details) sculpture, sometimes referred to as the Gauguin statue, was purchased by the Getty Museum in 2002 and was believed to be a rare sculpture by the famous artist Paul Gauguin. This work was said to have been completed sometime prior to 1894. It was originally held in a private collection in the Marquesas Islands, Nuku Hiva, and was first photographed in 1894. Little is known about its whereabouts until it appeared in a private collection in Switzerland in 1993 . Shortly after, the sculpture was displayed for the first time at an exhibition at the [Metropolitan Museum of Art in New York City](https://www.metmuseum.org/visit/plan-your-visit/met-fifth-avenue). The Getty Museum later purchased the object for approximately $3-5 million and it was one of their hero objects on display until 2015.
 <param ve-entity eid="Q37693" title="Paul Gauguin">
