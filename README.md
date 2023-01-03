@@ -12,8 +12,7 @@
 
 # The Getty Kouros
 
-The kouros statue owned by the [J. Paul Getty Museum](https://www.getty.edu/museum/) was purchased in 1986 for $9 million. As pictured, the statue depicts a nude youth and was used as a dedication to the gods. Kouros statues similar to this piece would be found in sanctuaries and as grave monuments throughout Archaic Greece. 
-<param ve-entity eid="Q5554723" title="The kouros statue">
+[The kouros statue](https://www.getty.edu/art/collection/object/103vnp) owned by the [J. Paul Getty Museum](https://www.getty.edu/museum/) was purchased in 1986 for $9 million. As pictured, the statue depicts a nude youth and was used as a dedication to the gods. Kouros statues similar to this piece would be found in sanctuaries and as grave monuments throughout Archaic Greece. 
 <param ve-entity eid="Q271834" title="Archaic Greece">
 <param ve-image fit="Cover"
        label="Statue of Kouros" 
@@ -21,9 +20,9 @@ The kouros statue owned by the [J. Paul Getty Museum](https://www.getty.edu/muse
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/05/Kouros.jpg">
 
-The sculpture dates from 530 B.C. but is suspected to be a more [modern forgery](What Is Forgery? (thoughtco.com)). The museum’s online entry describes how the kouros embodies many different ideals from the aristocratic culture of Ancient Greece. They define this statue as a representation of youth itself. <q>One such ideal of this period was arete, a combination of moral and physical beauty and nobility. Arete was closely connected with kalokagathia, a composite term for beautiful, good, or noble.</q> In the sixth century B.C. these statues epitomised society’s value on youth and male beauty.
+The sculpture dates from 530 B.C. but is suspected to be a more [modern forgery](https://www.thoughtco.com/the-crime-of-forgery-970864). The museum’s online entry describes how the kouros embodies many different ideals from the aristocratic culture of Ancient Greece. They define this statue as a representation of youth itself. <q>One such ideal of this period was arete, a combination of moral and physical beauty and nobility. Arete was closely connected with kalos kagathia, a composite term for beautiful, good, or noble.</q> In the sixth century B.C. these statues epitomised society’s value on youth and male beauty.
 <param ve-entity eid="Q265823" title="arete">
-<param ve-entity eid="Q1414901" title="kalokagathia">
+<param ve-entity eid="Q1414901" title="kalos kagathia">
 <param ve-image fit="Cover"
        label="Side view of Getty Kouros"
        description="This photo shows the side view of the Getty Kouros on display at the Getty Museum"
