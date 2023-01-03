@@ -8,7 +8,7 @@
 
 # Forged or Authentic?
 
-The Getty Museum has nearly 1,700 objects in their collection. While there are two museums, some objects are looked over and deserve to be put into the spotlight . These objects in particular have sparked controversy about their authenticity and past. This page encourages viewers to have a look past their appearances and into their history, whether it's good or bad. 
+The Getty Museum has nearly 1,700 objects in their collection. Spread throughout two museums, some objects are looked over and deserve to be put into the spotlight . These objects in particular have sparked controversy about their authenticity and past. This page encourages viewers to have a look past their appearances and into their history, whether it's good or bad. 
 
 # The Getty Kouros
 
