@@ -16,7 +16,7 @@ The Getty Museum has nearly 1,700 objects in their collection. Spread throughout
 
 [The kouros statue](https://www.getty.edu/art/collection/object/103vnp) owned by the [J. Paul Getty Museum](https://www.getty.edu/museum/) was purchased in 1986 for $9 million. As pictured, the statue depicts a nude youth and was used as a dedication to the gods. Kouros statues similar to this piece would be found in sanctuaries and as grave monuments throughout Archaic Greece. 
 <param ve-entity eid="Q271834" title="Archaic Greece">
-<param ve-image fit="Cover"
+<param ve-image fit="Contain"
        label="Statue of Kouros" 
        description="Photo of Getty Museum's Statue of Kouros" 
        license="public domain" 
