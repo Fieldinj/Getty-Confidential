@@ -85,7 +85,7 @@ Following the confirmation that *Head with Horns* was merely influenced by Gaugu
 
 # Send in your thoughts
 
-<mark>Getty Confidential allows for viewer to tune in and share</mark>.<mark> Please leave your comments and questions [here](https://jacquelyn328393716.wordpress.com/) or on our social media</mark>.
+**Getty Confidential allows for viewer to tune in and share**. **Please leave your comments and questions [here](https://jacquelyn328393716.wordpress.com/) or on our social media**.
 
 
 
