@@ -31,7 +31,6 @@ The sculpture dates from 530 B.C. but is suspected to be a more [modern forgery]
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Getty_kouros.jpg/640px-Getty_kouros.jpg"
 
 Recently, the authenticity of this particular statue has come into question, causing many curators to take a second look at its origin. Many different arguments have been presented analyzing whether this statue was forged or authentic.Some speculate that the statue is fake due to the usage of [dolomitic marble](http://www.jsjgeology.net/Dolomitic-marble.htm) the only kouros to use this material as well as the dissimilarities in physical proportions to other kouros pieces, which feature styles from both older and newer eras. However, the [chemical weathering](https://www.geolsoc.org.uk/ks3/gsl/education/resources/rockcycle/page3564.html) of the magnesium from the marble confirmed the statues age to be a couple thousand years, though geologists traced the stone to have been taken from an ancient Thasos quarry an unexpected location to conjure stone for such a project. Despite knowing these crucial factors, the sculpture was purchased and put onto display. Unfortunately, not long after, research showed that the weathering process can be replicated in a lab; it was then denounced as fake. Following the conclusion, further investigation was conducted revealing the curator who had sold the kouros forged the documents for the statue.
-
 <param ve-entity eid="Q204096" title="Thasos">
 <param ve-image fit="Cover"
        label="Statue of Kouros" 
