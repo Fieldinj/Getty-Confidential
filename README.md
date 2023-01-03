@@ -1,9 +1,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
-<param ve-config 
+<param ve-config fit="cover"
        title="Getty Confindential"
        author="Jacquelyn Fielding"
-       banner="https://pbs.twimg.com/media/FkgFXTBUcAAmz8M?format=png&name=large" 
+       banner="https://jacquelyn328393716.files.wordpress.com/2022/12/shutterstock_1990282745-1.jpg?w=1034" 
        layout="vertical">
 
 # Forged or Authentic?
