@@ -73,6 +73,11 @@ Scholars began disbelieving the sculptures’ authenticity, provoking the Getty 
        url="https://th.bing.com/th/id/R.a1e09d5edb7cb4972c2ae29229bdea62?rik=jRJg7XUcNBVEAA&riu=http%3a%2f%2fmedia.getty.edu%2fmuseum%2fimages%2fweb%2fenlarge%2f144617F2V1.jpg&ehk=tN0Ipq73Zixvyph%2fUmPf9uatCB5bt0K%2bzy2xBI0r%2bxU%3d&risl=&pid=ImgRaw&r=0">
 
 In his travel journal [<q>Noa, Noa,</q>](https://www.clevelandart.org/research/in-the-library/collection-in-focus/paul-gauguins-noa-noa) Gauguin had kept two photos of *Head with Horns*. These pictures were initially used as evidence proving the authenticity of the sculpture, however, as it turned out, they were actually taken by the photographer Jules Agostini. Furthermore, Agostini had notated the photos as “Marquesan Idol,” not referencing Gauguin at all. As a close friend of Gauguin, it seemed uncharacteristic of Agostini not to credit the art to its creator.The most compelling argument against the piece being a Gauguin, however, came from the photographs’ dates finally being confirmed. Agostini’s picture of the idol turned out to be from 1894, a year before he and Gauguin became friends. This means that the piece was created before Gauguin travelled to Tahiti, making the construction of such a work impossible.
+<param ve-image fit="Cover"
+       label="Paul Gauguin's album Noa Noa (pictured) shows images of the sculpture from 'A World-Famous Paul Gauguin Sculpture Was Misattributed'" 
+       description="The Picture Art Collection / Alamy Stock Photo" 
+       license="public domain" 
+       url="https://media.architecturaldigest.com/photos/5e308f08d860d700084f0941/master/w_1600,c_limit/MMXYDG.jpg">
 
 Following the confirmation that *Head with Horns* was merely influenced by Gauguin, the Getty Museum revised its online entry. The artist was changed to ‘unknown’, with the description citing this change being a result of <q>scholarly research over recent years by Getty professionals and other experts in the field, including significant new evidence that was not available at the time of its acquisition.</q>
 
