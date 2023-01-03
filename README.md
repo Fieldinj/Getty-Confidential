@@ -20,7 +20,7 @@ The Getty Museum has nearly 1,700 objects in their collection. Spread throughout
        label="Statue of Kouros" 
        description="Photo of Getty Museum's Statue of Kouros" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/05/Kouros.jpg">
+       url="https://pbs.twimg.com/media/FlkfQB5X0AQaKh8?format=jpg&name=4096x4096">
 
 The sculpture dates from 530 B.C. but is suspected to be a more [modern forgery](https://www.thoughtco.com/the-crime-of-forgery-970864). The museum’s online entry describes how the kouros embodies many different ideals from the aristocratic culture of Ancient Greece. They define this statue as a representation of youth itself. <q>One such ideal of this period was *arete*, a combination of moral and physical beauty and nobility. Arete was closely connected with 
 *kalos kagathos*, a composite term for beautiful, good, or noble.</q> In the sixth century B.C. these statues epitomised society’s value on youth and male beauty.
