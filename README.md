@@ -6,7 +6,7 @@
        banner="https://jacquelyn328393716.files.wordpress.com/2022/12/shutterstock_1990282745-1.jpg?w=1034" 
        layout="vertical">
 
-## Forged or Authentic?
+# Forged or Authentic?
 
 The Getty Museum has nearly 1,700 objects in their collection. Spread throughout two museums, some objects are looked over and deserve to be put into the spotlight. These objects in particular have sparked controversy about their authenticity and past. This page encourages viewers to have a look past their appearances and into their history, whether it's good or bad. 
 <param ve-compare curtain url="https://live.staticflickr.com/580/20985280249_8b0f682268_b.jpg" label="Getty Center" description="Photo of the outside of the Getty Center" license="Public Domain">
