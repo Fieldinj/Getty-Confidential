@@ -82,6 +82,11 @@ In his travel journal [<q>Noa, Noa,</q>](https://www.clevelandart.org/research/i
        url="https://media.architecturaldigest.com/photos/5e308f08d860d700084f0941/master/w_1600,c_limit/MMXYDG.jpg">
 
 Following the confirmation that *Head with Horns* was merely influenced by Gauguin, the Getty Museum revised its online entry. The artist was changed to ‘unknown’, with the description citing this change being a result of <q>scholarly research over recent years by Getty professionals and other experts in the field, including significant new evidence that was not available at the time of its acquisition.</q>
+<param ve-image fit="Cover"
+       label="Inside Getty Museum" 
+       description="Photo of Getty Museum gallery" 
+       license="public domain" 
+       url="https://pbs.twimg.com/media/FlknINnWYAMpmvX?format=jpg&name=4096x4096">
 
 # Send in your thoughts
 
