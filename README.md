@@ -21,9 +21,9 @@
        url="https://upload.wikimedia.org/wikipedia/commons/0/05/Kouros.jpg">
 
 The sculpture dates from 530 B.C. but is suspected to be a more [modern forgery](https://www.thoughtco.com/the-crime-of-forgery-970864). The museum’s online entry describes how the kouros embodies many different ideals from the aristocratic culture of Ancient Greece. They define this statue as a representation of youth itself. <q>One such ideal of this period was *arete*, a combination of moral and physical beauty and nobility. Arete was closely connected with 
-       *kalos kagathia*, a composite term for beautiful, good, or noble.</q> In the sixth century B.C. these statues epitomised society’s value on youth and male beauty.
+       *kalos kagathos*, a composite term for beautiful, good, or noble.</q> In the sixth century B.C. these statues epitomised society’s value on youth and male beauty.
 <param ve-entity eid="Q265823" title="arete">
-<param ve-entity eid="Q1414901" title="kalos kagathia">
+<param ve-entity eid="Q1414901" title="kalos kagathos">
 <param ve-image fit="Cover"
        label="Side view of Getty Kouros"
        description="This photo shows the side view of the Getty Kouros on display at the Getty Museum"
