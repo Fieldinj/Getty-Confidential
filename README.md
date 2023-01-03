@@ -9,8 +9,8 @@
 # Forged or Authentic?
 
 The Getty Museum has nearly 1,700 objects in their collection. Spread throughout two museums, some objects are looked over and deserve to be put into the spotlight . These objects in particular have sparked controversy about their authenticity and past. This page encourages viewers to have a look past their appearances and into their history, whether it's good or bad. 
-<param ve-compare curtain fit="cover" url="https://live.staticflickr.com/580/20985280249_8b0f682268_b.jpg" label="Getty Center" description="Photo of the outside of the Getty Center" license="Public Domain">
-<param ve-compare fit="cover" url="https://th.bing.com/th/id/R.555a268a3987bf158fc1eb60327e15df?rik=OBltTTlPFb6cog&riu=http%3a%2f%2fd3vjn2zm46gms2.cloudfront.net%2fblogs%2f2018%2f11%2f10113402%2fvilla_outerperistyle_1300x756_iris.jpg&ehk=uKNPaoEQyT2ufED736Ya%2fIpNW77ppya3%2biuGUvd8zeQ%3d&risl=&pid=ImgRaw&r=0" label="Getty Villa" description="Photo of the outside of the Getty Villa" license="Public Domain">
+<param ve-compare curtain url="https://live.staticflickr.com/580/20985280249_8b0f682268_b.jpg" label="Getty Center" description="Photo of the outside of the Getty Center" license="Public Domain">
+<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Getty_villa%2C_peristilio_esterno_13.JPG/1280px-Getty_villa%2C_peristilio_esterno_13.JPG" label="Getty Villa" description="Photo of the outside of the Getty Villa" license="Public Domain">
 
 # The Getty Kouros
 
