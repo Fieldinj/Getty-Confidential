@@ -59,20 +59,23 @@ The [*Head with Horns*](https://www.getty.edu/art/collection/object/108J7Y?tab=e
 <param ve-entity eid="Q37693" title="Paul Gauguin">
 <param ve-entity eid="Q21064" title="Nuku Hiva">
 <param ve-image fit="Cover"
-       label="*Head with Horns*" 
+       label="Head with Horns" 
+       description="Photo of Getty Museum's Head with Horns" 
+       license="public domain" 
+       url="https://pbs.twimg.com/media/Flj48MMXoAESrGi?format=jpg&name=small">
+
+Scholars began disbelieving the sculptures’ authenticity, provoking the Getty Museum to remove the sculpture from display early that year. In large part, Fabrice Fourmanoir, a collector of 19th century art, provided key insight in debunking the theory that Gauguin created the wooden statuette. Fourmanoir ran an art gallery in Tahiti and was particularly interested in Gauguin’s work. He became involved shortly after seeing a photo taken of the ‘Head with Horns’. Fourmanoir stated that he saw two key differences between the head and other works by Gauguin. Gauguin was known for making his sculptures rough and primitive, contrasting greatly with this sculpture’s smooth and refined look. Additionally, the base of the sculpture was a kind that Gauguin never used. After hearing about the purchase, Fourmanoir reached out to offer his assistance to the Getty Musuem in verifying the piece’s origin.
+<param ve-image fit="Cover"
+       label="Side view of Head with Horns" 
        description="Photo of Getty Museum's Head with Horns" 
        license="public domain" 
        url="https://th.bing.com/th/id/R.a1e09d5edb7cb4972c2ae29229bdea62?rik=jRJg7XUcNBVEAA&riu=http%3a%2f%2fmedia.getty.edu%2fmuseum%2fimages%2fweb%2fenlarge%2f144617F2V1.jpg&ehk=tN0Ipq73Zixvyph%2fUmPf9uatCB5bt0K%2bzy2xBI0r%2bxU%3d&risl=&pid=ImgRaw&r=0">
 
-Scholars began disbelieving the sculptures’ authenticity, provoking the Getty Museum to remove the sculpture from display early that year. In large part, Fabrice Fourmanoir, a collector of 19th century art, provided key insight in debunking the theory that Gauguin created the wooden statuette. Fourmanoir ran an art gallery in Tahiti and was particularly interested in Gauguin’s work. He became involved shortly after seeing a photo taken of the ‘Head with Horns’. Fourmanoir stated that he saw two key differences between the head and other works by Gauguin. Gauguin was known for making his sculptures rough and primitive, contrasting greatly with this sculpture’s smooth and refined look. Additionally, the base of the sculpture was a kind that Gauguin never used. After hearing about the purchase, Fourmanoir reached out to offer his assistance to the Getty Musuem in verifying the piece’s origin.
-<param ve-compare sync url="https://pbs.twimg.com/media/Flj48MMXoAESrGi?format=jpg&name=small" 
-       label="*Head with Horns*">
-<param ve-compare url="https://pbs.twimg.com/media/Flj5J4GX0AAsvHE?format=jpg&name=900x900"
-       label="*Oviri*">
-
 In his travel journal [<q>Noa, Noa,</q>](https://www.clevelandart.org/research/in-the-library/collection-in-focus/paul-gauguins-noa-noa) Gauguin had kept two photos of *Head with Horns*. These pictures were initially used as evidence proving the authenticity of the sculpture, however, as it turned out, they were actually taken by the photographer Jules Agostini. Furthermore, Agostini had notated the photos as “Marquesan Idol,” not referencing Gauguin at all. As a close friend of Gauguin, it seemed uncharacteristic of Agostini not to credit the art to its creator.The most compelling argument against the piece being a Gauguin, however, came from the photographs’ dates finally being confirmed. Agostini’s picture of the idol turned out to be from 1894, a year before he and Gauguin became friends. This means that the piece was created before Gauguin travelled to Tahiti, making the construction of such a work impossible.
 
 Following the confirmation that *Head with Horns* was merely influenced by Gauguin, the Getty Museum revised its online entry. The artist was changed to ‘unknown’, with the description citing this change being a result of <q>scholarly research over recent years by Getty professionals and other experts in the field, including significant new evidence that was not available at the time of its acquisition.</q>
+
+
 
 
 
