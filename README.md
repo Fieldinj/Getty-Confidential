@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config fit="cover"
-       title="Getty Confidential"
+       title="Curator's Corner"
        author="Jacquelyn Fielding"
        banner="https://jacquelyn328393716.files.wordpress.com/2022/12/shutterstock_1990282745-1.jpg?w=1034" 
        layout="vertical">
