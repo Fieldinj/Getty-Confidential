@@ -17,7 +17,7 @@ The Getty Museum has nearly 1,700 objects in its collection, spread over two mus
 [The kouros statue](https://www.getty.edu/art/collection/object/103vnp) owned by the [J. Paul Getty Museum](https://www.getty.edu/museum/) was purchased in 1986 for $9 million. As pictured, the statue depicts a nude youth and was used as a dedication to the gods. Kouros statues similar to this piece would be found in sanctuaries and as grave monuments throughout Archaic Greece. 
 <param ve-entity eid="Q271834" title="Archaic Greece">
 <param ve-image fit="Cover"
-       label="Statue of Kouros" 
+       label="Getty Kouros" 
        description="Photo of Getty Museum's Statue of Kouros" 
        license="public domain" 
        url="https://jacquelyn328393716.files.wordpress.com/2022/12/13a076b9-1456-4da4-a76a-0fbd1ddd9fac_1829.jpg?strip=info&w=1829">
@@ -35,7 +35,7 @@ The sculpture dates from 530 B.C. but is suspected to be a more [modern forgery]
 Recently, the authenticity of this particular statue has come into question, causing many curators to take a second look at its origin. Many different arguments have been presented analyzing whether this statue was forged or authentic.Some speculate that the statue is fake due to the usage of [dolomitic marble](http://www.jsjgeology.net/Dolomitic-marble.htm) the only kouros to use this material as well as the dissimilarities in physical proportions to other kouros pieces, which feature styles from both older and newer eras. However, the [chemical weathering](https://www.geolsoc.org.uk/ks3/gsl/education/resources/rockcycle/page3564.html) of the magnesium from the marble confirmed the statues age to be a couple thousand years, though geologists traced the stone to have been taken from an ancient Thasos quarry an unexpected location to conjure stone for such a project. Despite knowing these crucial factors, the sculpture was purchased and put onto display. Unfortunately, not long after, research showed that the weathering process can be replicated in a lab; it was then denounced as fake. Following the conclusion, further investigation was conducted revealing the curator who had sold the kouros forged the documents for the statue.
 <param ve-entity eid="Q204096" title="Thasos">
 <param ve-image fit="Cover"
-       label="Statue of Kouros" 
+       label="Closer view of the Getty Kouros" 
        description="Photo of Getty Museum's Statue of Kouros" 
        license="public domain" 
        url="https://pbs.twimg.com/media/FlkgVKUXkAE2Mwc?format=jpg&name=4096x4096">
